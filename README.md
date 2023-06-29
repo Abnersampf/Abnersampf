@@ -1,9 +1,9 @@
 ## Seja bem vindo ao meu GitHub 👋
 
 <div>
-  <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnersampf&layout=donut&theme=midnight-purple" />
+  <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnersampf&layout=donut&theme=github_dark" />
   &nbsp;&nbsp;&nbsp;
-  <img align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=Abnersampf&show_icons=true&theme=midnight-purple" />
+  <img align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=Abnersampf&show_icons=true&theme=github_dark" />
 </div>
 <br>
 <h5>
