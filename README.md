@@ -6,10 +6,9 @@
   <img align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=Abnersampf&show_icons=true&theme=github_dark" />
 </div>
 <br>
-<h5>
-  
+
   ## Estou aprendendo no momento:
-</h5>
+
 
 <div style="display: inline_block">
 <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
