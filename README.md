@@ -1,4 +1,4 @@
-## Seja bem vindo ao meu GitHub 👋
+## Welcome to my GitHub 👋
 
 <div>
   <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnersampf&layout=donut&theme=github_dark" />
@@ -7,7 +7,7 @@
 </div>
 <br>
 
-  ## Estou aprendendo no momento:
+  ## I'm currently learning:
 
 
 <div style="display: inline_block">
